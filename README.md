@@ -17,7 +17,7 @@
 
 ```
 房价预测/
-├── Untitled.ipynb          # 主分析 notebook（数据清洗 → SQL → 建模全流程）
+├── house_price_analysis.ipynb         # 主分析 notebook（数据清洗 → SQL → 建模全流程）
 ├── house_prices_raw.csv    # 原始数据（1460 × 81）
 ├── house_prices_clean.csv  # 清洗后的数据（无缺失值）
 └── README.md               # 本文件
