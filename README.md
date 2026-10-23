@@ -92,7 +92,7 @@
 pip install pandas numpy matplotlib scikit-learn sqlalchemy pymysql
 
 # 启动 notebook 依次运行各 cell
-jupyter notebook Untitled.ipynb
+jupyter notebook house_price_analysis.ipynb
 ```
 
 > 注意：运行「MySQL 入库」相关 cell 前，需先创建数据库 `house_price` 并确认本机 MySQL 已启动、账号密码与连接字符串一致。
